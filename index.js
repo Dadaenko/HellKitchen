@@ -53,7 +53,7 @@ app.get("/", (req, res) => {
   res.render("index.ejs", { writers: data });
 });
 
-app.post("/writers", (req, res) => {
+app.post("/writers.json", (req, res) => {
   switch (req.body.choice) {
     case "Viktoria":
       data = JSON.parse(writersJSON)[0];
