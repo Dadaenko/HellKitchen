@@ -17,35 +17,22 @@
         {
           "name": "Lettuce",
           "quantity": "1 cup",
-          "ingredients": [
-            "Iceberg Lettuce"
-          ]
+          "ingredients": ["Iceberg Lettuce"]
         },
         {
           "name": "Cheese",
           "quantity": "1/2 cup",
-          "ingredients": [
-            "Cheddar Cheese",
-            "Monterey Jack Cheese"
-          ]
+          "ingredients": ["Cheddar Cheese", "Monterey Jack Cheese"]
         },
         {
           "name": "Guacamole",
           "quantity": "2 tablespoons",
-          "ingredients": [
-            "Avocado",
-            "Lime Juice",
-            "Salt",
-            "Onion",
-            "Cilantro"
-          ]
+          "ingredients": ["Avocado", "Lime Juice", "Salt", "Onion", "Cilantro"]
         },
         {
           "name": "Sour Cream",
           "quantity": "2 tablespoons",
-          "ingredients": [
-            "Sour Cream"
-          ]
+          "ingredients": ["Sour Cream"]
         }
       ]
     }
@@ -68,24 +55,17 @@
         {
           "name": "Onions",
           "quantity": "1/4 cup",
-          "ingredients": [
-            "White Onion",
-            "Red Onion"
-          ]
+          "ingredients": ["White Onion", "Red Onion"]
         },
         {
           "name": "Cilantro",
           "quantity": "2 tablespoons",
-          "ingredients": [
-            "Fresh Cilantro"
-          ]
+          "ingredients": ["Fresh Cilantro"]
         },
         {
           "name": "Queso Fresco",
           "quantity": "1/4 cup",
-          "ingredients": [
-            "Queso Fresco"
-          ]
+          "ingredients": ["Queso Fresco"]
         }
       ]
     }
@@ -119,22 +99,12 @@
         {
           "name": "Pico de Gallo",
           "quantity": "1/2 cup",
-          "ingredients": [
-            "Tomato",
-            "Onion",
-            "Cilantro",
-            "Lime Juice",
-            "Salt"
-          ]
+          "ingredients": ["Tomato", "Onion", "Cilantro", "Lime Juice", "Salt"]
         },
         {
           "name": "Lime Crema",
           "quantity": "2 tablespoons",
-          "ingredients": [
-            "Sour Cream",
-            "Lime Juice",
-            "Salt"
-          ]
+          "ingredients": ["Sour Cream", "Lime Juice", "Salt"]
         }
       ]
     }

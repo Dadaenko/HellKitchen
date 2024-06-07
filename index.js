@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 let data;
 
 app.get("/", (req, res) => {
-  res.render("solution.ejs", { recipe: data });
+  res.render("index.ejs", { recipe: data });
 });
 
 app.post("/recipe", (req, res) => {
@@ -37,4 +37,4 @@ app.listen(port, () => {
   console.log(`Server running on port: ${port}`);
 });
 
-
+// Something
